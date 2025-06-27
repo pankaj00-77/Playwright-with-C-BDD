@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ke3imWjxHjk=",
+  "dgSpecHash": "L+I2G78Q0fg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pankaj\\OneDrive\\Desktop\\Playwright C# with Cucumber BDD\\DemoblaseEcomm\\DemoBlaseEcomm.csproj",
+  "projectFilePath": "C:\\Users\\Pankaj\\OneDrive\\Desktop\\Playwright C# with Cucumber BDD\\demoblaseEcomm\\DemoBlaseEcomm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pankaj\\.nuget\\packages\\allure.commons\\3.5.0.73\\allure.commons.3.5.0.73.nupkg.sha512",
+    "C:\\Users\\Pankaj\\.nuget\\packages\\allure.net.commons\\2.12.1\\allure.net.commons.2.12.1.nupkg.sha512",
+    "C:\\Users\\Pankaj\\.nuget\\packages\\allure.nunit\\2.12.1\\allure.nunit.2.12.1.nupkg.sha512",
+    "C:\\Users\\Pankaj\\.nuget\\packages\\aspectinjector\\2.8.1\\aspectinjector.2.8.1.nupkg.sha512",
     "C:\\Users\\Pankaj\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\Pankaj\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\Pankaj\\.nuget\\packages\\extentreports\\5.0.4\\extentreports.5.0.4.nupkg.sha512",

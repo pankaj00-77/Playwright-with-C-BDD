@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoBlaseEcomm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11a2c002afc993a7e46c4c9545bdc986c67b3ff9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c7efad54edabdaf68d8cb3dfbf11e257dd3be84")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoBlaseEcomm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoBlaseEcomm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -40,7 +40,7 @@ namespace PlaywrightEcommerce.Hooks
             var testName = _scenarioContext.ScenarioInfo.Title;
             if (_scenarioContext.TestError != null && _page != null)
             {
-                var screenshotPath = $"Reports/Screenshots/{testName}_failed.png";
+                var screenshotPath = $"Test Report/Screenshots/{testName}_failed.png";
                 await _page.ScreenshotAsync(new PageScreenshotOptions { Path = screenshotPath });
             }
             if (_page != null) await _page.CloseAsync();

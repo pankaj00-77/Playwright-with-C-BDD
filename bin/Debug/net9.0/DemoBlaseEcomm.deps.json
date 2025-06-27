@@ -9,6 +9,7 @@
       "DemoBlaseEcomm/1.0.0": {
         "dependencies": {
           "Allure.Commons": "3.5.0.73",
+          "Allure.NUnit": "2.12.1",
           "ExtentReports": "5.0.4",
           "FluentAssertions": "8.4.0",
           "Microsoft.NET.Test.Sdk": "17.12.0",
@@ -35,6 +36,40 @@
           "lib/netstandard2.0/Allure.Commons.dll": {
             "assemblyVersion": "3.5.0.73",
             "fileVersion": "3.5.0.73"
+          }
+        }
+      },
+      "Allure.Net.Commons/2.12.1": {
+        "dependencies": {
+          "AspectInjector": "2.8.1",
+          "MimeTypesMap": "1.0.8",
+          "Newtonsoft.Json": "13.0.3",
+          "System.Collections.Immutable": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Allure.Net.Commons.dll": {
+            "assemblyVersion": "2.12.1.0",
+            "fileVersion": "2.12.1.0"
+          }
+        }
+      },
+      "Allure.NUnit/2.12.1": {
+        "dependencies": {
+          "Allure.Net.Commons": "2.12.1",
+          "NUnit": "4.2.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Allure.NUnit.dll": {
+            "assemblyVersion": "2.12.1.0",
+            "fileVersion": "2.12.1.0"
+          }
+        }
+      },
+      "AspectInjector/2.8.1": {
+        "runtime": {
+          "lib/netstandard2.0/AspectInjector.Broker.dll": {
+            "assemblyVersion": "2.8.1.0",
+            "fileVersion": "2.8.1.0"
           }
         }
       },
@@ -1274,6 +1309,27 @@
       "sha512": "sha512-cqMlst9Za1TfOsgN2fWzMkdUeOTy07AZHaudOuRVAjTyBmUxDKOKxCwlkxO1Xw91ogsPCdXIJdduUtFFGw+Thw==",
       "path": "allure.commons/3.5.0.73",
       "hashPath": "allure.commons.3.5.0.73.nupkg.sha512"
+    },
+    "Allure.Net.Commons/2.12.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cix1b/xp/1nUIFUR8MpERt1Rrv9PM2C+VB3pat1g+IEB/h4Ul+7PihCDTE3VfecRob8wz5e8fQ0aHI9atf//gA==",
+      "path": "allure.net.commons/2.12.1",
+      "hashPath": "allure.net.commons.2.12.1.nupkg.sha512"
+    },
+    "Allure.NUnit/2.12.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-L4pjgKLNaOwvLxnXS4HAfPWhCuAaAUMy66kFFJNrxUeKPwr+NSmrSN+ff0N83NsKyC1x4oiikoVuN6WCHeHvWQ==",
+      "path": "allure.nunit/2.12.1",
+      "hashPath": "allure.nunit.2.12.1.nupkg.sha512"
+    },
+    "AspectInjector/2.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8BScDeaLazJVFaa2Tt9hoWLhllnxXP3Sew+l/vktdZEcgoPOsqhlDqe6GXJvy7xVkdICAbKFsrcDJ0cfrDR6Mg==",
+      "path": "aspectinjector/2.8.1",
+      "hashPath": "aspectinjector.2.8.1.nupkg.sha512"
     },
     "BoDi/1.5.0": {
       "type": "package",
